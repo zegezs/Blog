@@ -7,4 +7,4 @@
 
 
 ## 日常博客
-1.[移动定位]（）
+* 1. [移动定位](https://github.com/Arthurcherryli/Blog/issues/1)
