@@ -7,6 +7,7 @@
 
 ## javaScript系列
 
-*[数据类型]（）
+* [数据类型](https://github.com/Arthurcherryli/Blog/issues/2
+
 ## 日常博客
 * 1.[移动定位](https://github.com/Arthurcherryli/Blog/issues/1)
