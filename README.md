@@ -9,6 +9,7 @@
 
 * [数据类型](https://github.com/Arthurcherryli/Blog/issues/2)
 * [for in, Object.keys(), Object.getOwnPropertyNames()的区别](https://github.com/Arthurcherryli/Blog/issues/4)
+* [原型链](https://github.com/Arthurcherryli/Blog/issues/4)
 
 ## 日常博客
 * 1.[移动定位](https://github.com/Arthurcherryli/Blog/issues/1)
